@@ -1,4 +1,4 @@
-# [LintCode][1] ![License][2] ![Language][3]
+# [LintCode][1] ![License][2]![Language][3]
 
 ## Linked List
 
@@ -11,6 +11,7 @@
 ## 日志:
 
 19-12-17: 今天接触链表定义，通过两个题来巩固，感觉还是有点恼火
+
 
 [1]: https://www.lintcode.com/problem/
 [2]: https://img.shields.io/badge/License-MIT-blue
