@@ -12,3 +12,8 @@
 [3]: https://img.shields.io/badge/Language-Python3-green
 [4]: ./LintCode/reverseALinkedList.py
 [5]: ./LintCode/reverseALinkedListFromPositionM2N.py
+
+
+## 日志:
+
+19-12-17: 今天接触链表定义，通过两个题来巩固，感觉还是有点恼火
