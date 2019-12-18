@@ -9,6 +9,11 @@
 |96|[partition list][6]|python|__O__(n)|__O__(1)|Easy||2019-12-18|
 |48|[Majority Number III][7]|python|__O__(n)|__O__(n)|Middle||2019-12-18|
 
+## Sorted
+
+| # | Title | Solution | Time | Space | Difficulty | Tag | Date |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|5|[kthLargestElement][8]|python|__O__(nlgn)|__O__(1)|Middle|快排|2019-12-18|
 
 ## 日志:
 
@@ -22,3 +27,4 @@
 [5]: ./LintCode/reverseALinkedListFromPositionM2N.py
 [6]: ./LintCode/partitionList.py
 [7]: ./LintCode/majorityNumber3.py
+[8]: ./LintCode/kthLargestElement.py
