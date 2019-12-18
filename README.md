@@ -7,6 +7,7 @@
 |35|[Reverse a linked list][4]|python|__O__(n)|__O__(1)|Easy||2019-12-17|
 |36|[Reverse a linked list from position m to n][5]|python|__O__(n)|__O__(1)|Middle||2019-12-17|
 |96|[partition list][6]|python|__O__(n)|__O__(1)|Easy||2019-12-18|
+|48|[Majority Number III][7]|python|__O__(n)|__O__(n)|Middle||2019-12-18|
 
 
 ## 日志:
@@ -20,3 +21,4 @@
 [4]: ./LintCode/reverseALinkedList.py
 [5]: ./LintCode/reverseALinkedListFromPositionM2N.py
 [6]: ./LintCode/partitionList.py
+[7]: ./LintCode/majorityNumber3.py
