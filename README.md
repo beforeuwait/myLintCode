@@ -18,6 +18,12 @@
 |464|[sortIntegers2][9]|python|__O__(nlgn)|__O__(1)|Easy|快排|2019-12-18|
 
 
+## List
+
+| # | Title | Solution | Time | Space | Difficulty | Tag | Date |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|41|[maxSubArray][11]|python|__O__(n)|__O__(1)|Easy||2019-12-19|
+
 ## 日志:
 
 19-12-17: 今天接触链表定义，通过两个题来巩固，感觉还是有点恼火
@@ -34,3 +40,4 @@
 [8]: ./LintCode/kthLargestElement.py
 [9]: ./LintCode/sortIntegers2.py
 [10]: ./LintCode/sortList.py
+[11]: ./LintCode/maxSubArray.py
