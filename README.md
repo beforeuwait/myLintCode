@@ -22,7 +22,7 @@
 
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|41|[maxSubArray][11]|python|__O__(n)|__O__(1)|Easy||2019-12-19|
+|41|[maxSubArray][11]|python|__O__(n)|__O__(1)|Easy|值得回味|2019-12-19|
 
 ## 日志:
 
