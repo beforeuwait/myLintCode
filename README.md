@@ -14,6 +14,8 @@
 |756|[multiplyLists][14]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
 |466|[countNodes][15]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
 |452|[removeElements][16]|python|__O__(n)|__O__(1)|Easy|链表删除元素|2019-12-20|
+|372|[deleteNode][17]|python|__O__(1)|__O__(1)|Easy||2019-12-20|
+
 
 ## Sorted
 
@@ -51,3 +53,4 @@
 [14]: ./LintCode/multiplyLists.py
 [15]: ./LintCode/countNodes.py
 [16]: ./LintCode/removeElements.py
+[17]: ./LintCode/deleteNode.py
