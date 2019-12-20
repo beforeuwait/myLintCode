@@ -16,6 +16,7 @@
 |452|[removeElements][16]|python|__O__(n)|__O__(1)|Easy|链表删除元素|2019-12-20|
 |372|[deleteNode][17]|python|__O__(1)|__O__(1)|Easy||2019-12-20|
 |451|[swapPairs][18]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
+|174|[removeNthFromEnd][19]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
 
 
 ## Sorted
@@ -58,3 +59,4 @@
 [16]: ./LinkedList/removeElements.py
 [17]: ./LinkedList/deleteNode.py
 [18]: ./LinkedList/swapPairs.py
+[19]: ./LinkedList/removeNthFromEnd.py
