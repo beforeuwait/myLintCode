@@ -12,6 +12,7 @@
 |1609|[middleNode][12]|python|__O__(n)|__O__(1)|Easy|快慢指针|2019-12-20|
 |822|[reverseStore][13]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
 |756|[multiplyLists][14]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
+|466|[countNodes][15]|python|__O__(n)|__O__(1)|Easy||2019-12-20|
 
 ## Sorted
 
@@ -47,3 +48,4 @@
 [12]: ./LintCode/middleNode.py
 [13]: ./LintCode/reverseStore.py
 [14]: ./LintCode/multiplyLists.py
+[15]: ./LintCode/countNodes.py
