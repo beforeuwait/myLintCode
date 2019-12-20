@@ -9,6 +9,7 @@
 |96|[partition list][6]|python|__O__(n)|__O__(1)|Easy||2019-12-18|
 |48|[Majority Number III][7]|python|__O__(n)|__O__(n)|Middle||2019-12-18|
 |98|[sortList][10]|python|__O__(nlgn)|__O__(n)|Middle|快排|2019-12-18|
+|1609|[middleNode][12]|python|__O__(n)|__O__(1)|Easy|快慢指针|2019-12-20|
 
 ## Sorted
 
@@ -41,3 +42,4 @@
 [9]: ./LintCode/sortIntegers2.py
 [10]: ./LintCode/sortList.py
 [11]: ./LintCode/maxSubArray.py
+[12]: ./LintCode/middleNode.py
