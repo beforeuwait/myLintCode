@@ -38,21 +38,23 @@
 
 19-12-18: 今天继续做链表的题，做到快排地方卡住了，就转过来刷一波快排的题巩固巩固快排
 
+19-12-20: 今天挑软柿子捏，刷一天的链表题
+
 [1]: https://www.lintcode.com/problem/
 [2]: https://img.shields.io/badge/License-MIT-blue
 [3]: https://img.shields.io/badge/Language-Python3-green
-[4]: ./LintCode/reverseALinkedList.py
-[5]: ./LintCode/reverseBetween.py
-[6]: ./LintCode/partitionList.py
-[7]: ./LintCode/majorityNumber3.py
-[8]: ./LintCode/kthLargestElement.py
-[9]: ./LintCode/sortIntegers2.py
-[10]: ./LintCode/sortList.py
-[11]: ./LintCode/maxSubArray.py
-[12]: ./LintCode/middleNode.py
-[13]: ./LintCode/reverseStore.py
-[14]: ./LintCode/multiplyLists.py
-[15]: ./LintCode/countNodes.py
-[16]: ./LintCode/removeElements.py
-[17]: ./LintCode/deleteNode.py
-[18]: ./LintCode/swapPairs.py
+[4]: ./LinkedList/reverseALinkedList.py
+[5]: ./LinkedList/reverseBetween.py
+[6]: ./LinkedList/partitionList.py
+[7]: ./LinkedList/majorityNumber3.py
+[8]: ./Sorted/kthLargestElement.py
+[9]: ./Sorted/sortIntegers2.py
+[10]: ./LinkedList/sortList.py
+[11]: ./List/maxSubArray.py
+[12]: ./LinkedList/middleNode.py
+[13]: ./LinkedList/reverseStore.py
+[14]: ./LinkedList/multiplyLists.py
+[15]: ./LinkedList/countNodes.py
+[16]: ./LinkedList/removeElements.py
+[17]: ./LinkedList/deleteNode.py
+[18]: ./LinkedList/swapPairs.py
