@@ -5,7 +5,7 @@
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |35|[Reverse a linked list][4]|python|__O__(n)|__O__(1)|Easy||2019-12-17|
-|36|[Reverse a linked list from position m to n][5]|python|__O__(n)|__O__(1)|Middle||2019-12-17|
+|36|[reverseBetween][5]|python|__O__(n)|__O__(1)|Middle||2019-12-17|
 |96|[partition list][6]|python|__O__(n)|__O__(1)|Easy||2019-12-18|
 |48|[Majority Number III][7]|python|__O__(n)|__O__(n)|Middle||2019-12-18|
 |98|[sortList][10]|python|__O__(nlgn)|__O__(n)|Middle|快排|2019-12-18|
@@ -39,7 +39,7 @@
 [2]: https://img.shields.io/badge/License-MIT-blue
 [3]: https://img.shields.io/badge/Language-Python3-green
 [4]: ./LintCode/reverseALinkedList.py
-[5]: ./LintCode/reverseALinkedListFromPositionM2N.py
+[5]: ./LintCode/reverseBetween.py
 [6]: ./LintCode/partitionList.py
 [7]: ./LintCode/majorityNumber3.py
 [8]: ./LintCode/kthLargestElement.py
