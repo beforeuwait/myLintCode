@@ -21,6 +21,7 @@
 |167|[addLists][21]|python|__O__(n)|__O__(1)|Easy||2019-12-23|
 |166|[nthToLast][22]|python|__O__(n)|__O__(1)|Easy||2019-12-23|
 |165|[mergeTwoLists][23]|python|__O__(n)|__O__(1)|Easy||2019-12-23|
+|112|[deleteDuplicates][24]|python|__O__(n)|__O__(1)|Easy||2019-12-23|
 
 
 ## Sorted
@@ -45,6 +46,8 @@
 
 19-12-20: 今天挑软柿子捏，刷一天的链表题
 
+19-12-23: 工作之余继续捏软柿子
+
 [1]: https://www.lintcode.com/problem/
 [2]: https://img.shields.io/badge/License-MIT-blue
 [3]: https://img.shields.io/badge/Language-Python3-green
@@ -68,3 +71,4 @@
 [21]: ./LinkedList/addLists.py
 [22]: ./LinkedList/nthToLast.py
 [23]: ./LinkedList/mergeTwoLists.py
+[24]: ./LinkedList/deleteDuplicates.py
