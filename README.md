@@ -24,6 +24,7 @@
 |112|[deleteDuplicates][24]|python|__O__(n)|__O__(1)|Easy||2019-12-23|
 |99|[reorderList][25]|python|__O__(n)|__O__(1)|Middle|值得回味|2019-12-24|
 |102|[hasCycle][26]|python|__O__(n)|__O__(1)|Middle|有趣、经典|2019-12-24|
+|104|[mergeKLists][27]|python|__O__(n^2)|__O__(n)|Middle||2019-12-24|
 
 
 ## Sorted
@@ -76,3 +77,4 @@
 [24]: ./LinkedList/deleteDuplicates.py
 [25]: ./LinkedList/reorderList.py
 [26]: ./LinkedList/hasCycle.py
+[27]: ./LinkedList/mergeKLists.py
