@@ -25,6 +25,7 @@
 |99|[reorderList][25]|python|__O__(n)|__O__(1)|Middle|值得回味|2019-12-24|
 |102|[hasCycle][26]|python|__O__(n)|__O__(1)|Middle|有趣、经典|2019-12-24|
 |104|[mergeKLists][27]|python|__O__(n^2)|__O__(n)|Middle||2019-12-24|
+|105|[copyRandomList][28]|python|__O__(n)|__O__(1)|Middle|深拷贝|2019-12-24|
 
 
 ## Sorted
@@ -50,6 +51,8 @@
 19-12-20: 今天挑软柿子捏，刷一天的链表题
 
 19-12-23: 工作之余继续捏软柿子
+
+19-12-24: 刷中等难度的链表题
 
 [1]: https://www.lintcode.com/problem/
 [2]: https://img.shields.io/badge/License-MIT-blue
@@ -78,3 +81,4 @@
 [25]: ./LinkedList/reorderList.py
 [26]: ./LinkedList/hasCycle.py
 [27]: ./LinkedList/mergeKLists.py
+[28]: ./LinkedList/copyRandomList.py
