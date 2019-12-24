@@ -27,6 +27,7 @@
 |104|[mergeKLists][27]|python|__O__(n^2)|__O__(n)|Middle||2019-12-24|
 |105|[copyRandomList][28]|python|__O__(n)|__O__(1)|Middle|深拷贝|2019-12-24|
 |106|[sortedListToBST][29]|python|__O__(nlgn)|__O__(1)|Middle||2019-12-24|
+|113|[deleteDuplicatesII][30]|python|__O__(n)|__O__(1)|Middle||2019-12-24|
 
 
 ## Sorted
@@ -84,3 +85,4 @@
 [27]: ./LinkedList/mergeKLists.py
 [28]: ./LinkedList/copyRandomList.py
 [29]: ./LinkedList/sortedListToBST.py
+[30]: ./LinkedList/deleteDuplicates2.py
