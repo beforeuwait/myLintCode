@@ -26,6 +26,7 @@
 |102|[hasCycle][26]|python|__O__(n)|__O__(1)|Middle|有趣、经典|2019-12-24|
 |104|[mergeKLists][27]|python|__O__(n^2)|__O__(n)|Middle||2019-12-24|
 |105|[copyRandomList][28]|python|__O__(n)|__O__(1)|Middle|深拷贝|2019-12-24|
+|106|[sortedListToBST][29]|python|__O__(nlgn)|__O__(1)|Middle||2019-12-24|
 
 
 ## Sorted
@@ -82,3 +83,4 @@
 [26]: ./LinkedList/hasCycle.py
 [27]: ./LinkedList/mergeKLists.py
 [28]: ./LinkedList/copyRandomList.py
+[29]: ./LinkedList/sortedListToBST.py
