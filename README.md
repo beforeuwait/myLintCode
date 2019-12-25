@@ -35,6 +35,7 @@
 |511|[swapNodes][35]|python|__O__(n)|__O__(n)|Middle||2019-12-25|
 |1371|[numComponents][36]|python|__O__(n)|__O__(1)|Middle|有意思|2019-12-25|
 |1292|[oddEvenList][37]|python|__O__(n)|__O__(n)|Middle||2019-12-25|
+|930|[blockNumber][38]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 
 
 ## Sorted
@@ -102,3 +103,4 @@
 [35]: ./LinkedList/swapNodes.py
 [36]: ./LinkedList/numComponents.py
 [37]: ./LinkedList/oddEvenList.py
+[38]: ./LinkedList/blockNumber.py
