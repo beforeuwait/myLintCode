@@ -30,6 +30,7 @@
 |113|[deleteDuplicatesII][30]|python|__O__(n)|__O__(1)|Middle||2019-12-24|
 |170|[rotateRight][31]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 |221|[addLists2][32]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
+|223|[isPalindrome][33]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 
 
 ## Sorted
@@ -92,3 +93,4 @@
 [30]: ./LinkedList/deleteDuplicates2.py
 [31]: ./LinkedList/rotateRight.py
 [32]: ./LinkedList/addLists2.py
+[33]: ./LinkedList/isPalindrome.py
