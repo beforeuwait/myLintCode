@@ -82,6 +82,7 @@ class Solution_error:
     @param v2: An integer
     @return: a new head of singly-linked list
     """
+    def swapNodes(self, head, v1, v2):
     # 这是错误示范
     t1, t2 = False, False
     tail = gozi = head
