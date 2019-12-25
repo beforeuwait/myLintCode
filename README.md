@@ -37,8 +37,8 @@
 |1292|[oddEvenList][37]|python|__O__(n)|__O__(n)|Middle||2019-12-25|
 |930|[blockNumber][38]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 |904|[plusOne][39]|python|__O__(n)|__O__(n)|Middle||2019-12-25|
-|960|[dataStream][40]|python|??|??|值得回味|2019-12-25|
-|599|[insert][41]|python|__O__(n)|__O__(1)||2019-12-25|
+|960|[dataStream][40]|python|??|??|Middle|值得回味|2019-12-25|
+|599|[insert][41]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 
 
 ## Sorted
