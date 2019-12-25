@@ -29,6 +29,7 @@
 |106|[sortedListToBST][29]|python|__O__(nlgn)|__O__(1)|Middle||2019-12-24|
 |113|[deleteDuplicatesII][30]|python|__O__(n)|__O__(1)|Middle||2019-12-24|
 |170|[rotateRight][31]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
+|221|[addLists2][32]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 
 
 ## Sorted
@@ -56,6 +57,8 @@
 19-12-23: 工作之余继续捏软柿子
 
 19-12-24: 刷中等难度的链表题
+
+19-12-25: merry xmas
 
 [1]: https://www.lintcode.com/problem/
 [2]: https://img.shields.io/badge/License-MIT-blue
@@ -88,3 +91,4 @@
 [29]: ./LinkedList/sortedListToBST.py
 [30]: ./LinkedList/deleteDuplicates2.py
 [31]: ./LinkedList/rotateRight.py
+[32]: ./LinkedList/addLists2.py
