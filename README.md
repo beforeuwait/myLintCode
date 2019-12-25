@@ -28,6 +28,7 @@
 |105|[copyRandomList][28]|python|__O__(n)|__O__(1)|Middle|深拷贝|2019-12-24|
 |106|[sortedListToBST][29]|python|__O__(nlgn)|__O__(1)|Middle||2019-12-24|
 |113|[deleteDuplicatesII][30]|python|__O__(n)|__O__(1)|Middle||2019-12-24|
+|170|[rotateRight][31]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 
 
 ## Sorted
@@ -86,3 +87,4 @@
 [28]: ./LinkedList/copyRandomList.py
 [29]: ./LinkedList/sortedListToBST.py
 [30]: ./LinkedList/deleteDuplicates2.py
+[31]: ./LinkedList/rotateRight.py
