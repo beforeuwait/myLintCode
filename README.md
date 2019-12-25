@@ -33,6 +33,7 @@
 |223|[isPalindrome][33]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 |380|[getIntersectionNode][34]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 |511|[swapNodes][35]|python|__O__(n)|__O__(n)|Middle||2019-12-25|
+|1371|[numComponents][36]|python|__O__(n)|__O__(1)|Middle|有意思|2019-12-25|
 
 
 ## Sorted
@@ -98,3 +99,4 @@
 [33]: ./LinkedList/isPalindrome.py
 [34]: ./LinkedList/getIntersectionNode.py
 [35]: ./LinkedList/swapNodes.py
+[36]: ./LinkedList/numComponents.py
