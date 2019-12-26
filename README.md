@@ -50,6 +50,7 @@
 |51|[previousPermuation][42]|python|___O__(n)|__O__(1)|Middle||2019-12-26|
 |52|[nextPermutation][43]|python|__O__(n)|__O__(1)|Middle||2019-12-26|
 |190|[nextPermutationII][44]|python|__O__(n)|__O__(1)|Middle||2019-12-26|
+|197|[permutationIndex][45]|python|???|???|Middle||2019-12-26|
 
 ## List
 
@@ -115,3 +116,4 @@
 [42]: ./Permutation/previousPermuation.py
 [43]: ./Permutation/nextPermutation.py
 [44]: ./Permutation/nextPermutationII.py
+[45]: ./Permutation/permutationIndex.py
