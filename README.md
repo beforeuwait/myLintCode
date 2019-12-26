@@ -41,7 +41,7 @@
 |599|[insert][41]|python|__O__(n)|__O__(1)|Middle||2019-12-25|
 
 
-## Sorted
+## Permutation
 
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
