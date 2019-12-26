@@ -47,10 +47,10 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |5|[kthLargestElement][8]|python|__O__(nlgn)|__O__(1)|Middle|快排|2019-12-18|
 |464|[sortIntegers2][9]|python|__O__(nlgn)|__O__(1)|Easy|快排|2019-12-18|
-|51|[previousPermuation][42]|python|___O__(n)|__O__(1)|Middle||2019-12-26|
-|52|[nextPermutation][43]|python|__O__(n)|__O__(1)|Middle||2019-12-26|
-|190|[nextPermutationII][44]|python|__O__(n)|__O__(1)|Middle||2019-12-26|
-|197|[permutationIndex][45]|python|???|???|Middle||2019-12-26|
+|51|[previousPermuation][42]|python|___O__(n)|__O__(1)|Middle|字典排序|2019-12-26|
+|52|[nextPermutation][43]|python|__O__(n)|__O__(1)|Middle|字典排序|2019-12-26|
+|190|[nextPermutationII][44]|python|__O__(n)|__O__(1)|Middle|字典排序|2019-12-26|
+|197|[permutationIndex][45]|python|???|???|Middle|字典排序|2019-12-26|
 
 ## List
 
