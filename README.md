@@ -47,6 +47,7 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |5|[kthLargestElement][8]|python|__O__(nlgn)|__O__(1)|Middle|快排|2019-12-18|
 |464|[sortIntegers2][9]|python|__O__(nlgn)|__O__(1)|Easy|快排|2019-12-18|
+|51|[previousPermuation][42]|python|___O__(n)|__O__(1)|Middle||2019-12-26|
 
 
 ## List
@@ -76,8 +77,8 @@
 [5]: ./LinkedList/reverseBetween.py
 [6]: ./LinkedList/partitionList.py
 [7]: ./LinkedList/majorityNumber3.py
-[8]: ./Sorted/kthLargestElement.py
-[9]: ./Sorted/sortIntegers2.py
+[8]: ./Permutation/kthLargestElement.py
+[9]: ./Permutation/sortIntegers2.py
 [10]: ./LinkedList/sortList.py
 [11]: ./List/maxSubArray.py
 [12]: ./LinkedList/middleNode.py
@@ -110,3 +111,4 @@
 [39]: ./LinkedList/plusOne.py
 [40]: ./LinkedList/dataStream.py
 [41]: ./LinkedList/insert.py
+[42]: ./Permutation/previousPermuation.py
