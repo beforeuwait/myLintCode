@@ -48,6 +48,7 @@
 |5|[kthLargestElement][8]|python|__O__(nlgn)|__O__(1)|Middle|快排|2019-12-18|
 |464|[sortIntegers2][9]|python|__O__(nlgn)|__O__(1)|Easy|快排|2019-12-18|
 |51|[previousPermuation][42]|python|___O__(n)|__O__(1)|Middle||2019-12-26|
+|52|[nextPermutation][43]|python|__O__(n)|__O__(1)|Middle||2019-12-26|
 
 
 ## List
@@ -112,3 +113,4 @@
 [40]: ./LinkedList/dataStream.py
 [41]: ./LinkedList/insert.py
 [42]: ./Permutation/previousPermuation.py
+[43]: ./Permutation/nextPermutation.py
