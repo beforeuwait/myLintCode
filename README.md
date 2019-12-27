@@ -54,6 +54,7 @@
 |388|[getPermutation][46]|python|__O__(n*k)|__O__(n*k)|Middle|2019-12-27|
 |80|[median][47]|python|__O__(n)|__O__(1)|Easy|快排应用|2019-12-27|
 |508|[wiggleSort][48]|python|___O__(lgn)|__O(1)|Middle|快排应用|2019-12-27|
+|399|[sortNutsAndBolts][49]|python|__O__(lgn)|__O__(1)|Middle|partition|2019-12-27|
 
 ## List
 
@@ -123,3 +124,4 @@
 [46]: ./Permutation/getPermutation.py
 [47]: ./Permutation/median.py
 [48]: ./Permutation/wiggleSort.py
+[49]: ./Permutation/sortNutsAndBolts.py
