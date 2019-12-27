@@ -53,6 +53,7 @@
 |197|[permutationIndex][45]|python|???|???|Middle|字典排序|2019-12-26|
 |388|[getPermutation][46]|python|__O__(n*k)|__O__(n*k)|Middle|2019-12-27|
 |80|[median][47]|python|__O__(n)|__O__(1)|Easy|快排应用|2019-12-27|
+|508|[wiggleSort][48]|python|___O__(lgn)|__O(1)|Middle|快排应用|2019-12-27|
 
 ## List
 
@@ -121,3 +122,4 @@
 [45]: ./Permutation/permutationIndex.py
 [46]: ./Permutation/getPermutation.py
 [47]: ./Permutation/median.py
+[48]: ./Permutation/wiggleSort.py
