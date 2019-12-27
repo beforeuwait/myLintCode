@@ -51,6 +51,7 @@
 |52|[nextPermutation][43]|python|__O__(n)|__O__(1)|Middle|字典排序|2019-12-26|
 |190|[nextPermutationII][44]|python|__O__(n)|__O__(1)|Middle|字典排序|2019-12-26|
 |197|[permutationIndex][45]|python|???|???|Middle|字典排序|2019-12-26|
+|388|[getPermutation][46]|python|__O__(n*k)|__O__(n*k)|Middle|2019-12-27|
 
 ## List
 
@@ -117,3 +118,4 @@
 [43]: ./Permutation/nextPermutation.py
 [44]: ./Permutation/nextPermutationII.py
 [45]: ./Permutation/permutationIndex.py
+[46]: ./Permutation/getPermutation.py
