@@ -56,6 +56,7 @@
 |508|[wiggleSort][48]|python|___O__(lgn)|__O(1)|Middle|快排应用|2019-12-27|
 |399|[sortNutsAndBolts][49]|python|__O__(lgn)|__O__(1)|Middle|partition|2019-12-27|
 |56|[twoSum][50]|python|__O__(n)|__O__(n)|Easy||2019-12-27|
+|49|[sortLetters][51]|python|__O__(n)|__O__(1)|Middle||2019-12-30|
 
 ## List
 
@@ -127,3 +128,4 @@
 [48]: ./Permutation/wiggleSort.py
 [49]: ./Permutation/sortNutsAndBolts.py
 [50]: ./Permutation/twoSum.py
+[51]: ./Permutation/sortLetters.py
