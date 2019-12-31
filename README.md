@@ -57,6 +57,7 @@
 |399|[sortNutsAndBolts][49]|python|__O__(lgn)|__O__(1)|Middle|partition|2019-12-27|
 |56|[twoSum][50]|python|__O__(n)|__O__(n)|Easy||2019-12-27|
 |49|[sortLetters][51]|python|__O__(n)|__O__(1)|Middle||2019-12-30|
+|58|[fourSum][52]|python|__O__(n^4)|__O__(n^4)|Middle||2019-12-31|
 
 ## List
 
@@ -129,3 +130,4 @@
 [49]: ./Permutation/sortNutsAndBolts.py
 [50]: ./Permutation/twoSum.py
 [51]: ./Permutation/sortLetters.py
+[52]: ./Permutation/fourSum.py
