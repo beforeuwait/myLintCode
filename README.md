@@ -61,7 +61,7 @@
 |59|[threeSumClosest][53]|python|__O__(n^2)|__O__(1)|Middle||2019-12-31|
 |139|[subarraySumClosest][54]|python|__O__(n^2)|__O__(1)|Middle|重刷|2020-01-02|
 |159|[merge][55]|python|__O__(n)|__O__(1)|Middle|经典|2020-01-02|
-|184|[largestNumber][56]|python|__O__(n^2)|__O__(1)|Middle|冒泡|2020-01-02|
+|184|[largestNumber][56]|python|__O__(nlgn)|__O__(1)|Middle|冒泡|2020-01-02|
 
 ## List
 
