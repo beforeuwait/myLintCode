@@ -59,6 +59,7 @@
 |49|[sortLetters][51]|python|__O__(n)|__O__(1)|Middle||2019-12-30|
 |58|[fourSum][52]|python|__O__(n^4)|__O__(n^4)|Middle||2019-12-31|
 |59|[threeSumClosest][53]|python|__O__(n^2)|__O__(1)|Middle||2019-12-31|
+|139|[subarraySumClosest][54]|python|__O__(n^2)|__O__(1)|Middle|重刷|2020-01-02|
 
 ## List
 
@@ -66,19 +67,6 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |41|[maxSubArray][11]|python|__O__(n)|__O__(1)|Easy|值得回味|2019-12-19|
 
-## 日志:
-
-19-12-17: 今天接触链表定义，通过两个题来巩固，感觉还是有点恼火
-
-19-12-18: 今天继续做链表的题，做到快排地方卡住了，就转过来刷一波快排的题巩固巩固快排
-
-19-12-20: 今天挑软柿子捏，刷一天的链表题
-
-19-12-23: 工作之余继续捏软柿子
-
-19-12-24: 刷中等难度的链表题
-
-19-12-25: merry xmas
 
 [1]: https://www.lintcode.com/problem/
 [2]: https://img.shields.io/badge/License-MIT-blue
@@ -133,3 +121,4 @@
 [51]: ./Permutation/sortLetters.py
 [52]: ./Permutation/fourSum.py
 [53]: ./Permutation/threeSumClosest.py
+[54]: ./Permutation/subarraySumClosest.py
