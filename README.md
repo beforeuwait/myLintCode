@@ -63,6 +63,7 @@
 |159|[merge][55]|python|__O__(n)|__O__(1)|Middle|经典|2020-01-02|
 |184|[largestNumber][56]|python|__O__(nlgn)|__O__(1)|Middle|冒泡|2020-01-02|
 |387|[smallestDifference][57]|python|__O__(n)|__O__(1)|Middle|好题|2020-01-03|
+|400|[maximumGap][58]|python|__O__(n)|__O__(1)|Middle|好题|2020-01-03|
 
 
 ## List
@@ -129,3 +130,4 @@
 [55]: ./Permutation/merge.py
 [56]: ./Permutation/largestNumber.py
 [57]: ./Permutation/smallestDifference.py
+[58]: ./Permutation/maximumGap.py
