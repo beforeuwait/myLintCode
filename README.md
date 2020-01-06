@@ -69,6 +69,7 @@
 |846|[multiSort][61]|python|__O__(n)|__O__(1)|Easy||2020-01-06|
 |920|[canAttendMeetings][62]|python|__O__(n)|__O__(1)|Easy||2020-01-06|
 |919|[minMeetingRooms][63]|python|__O__(n)|__O__(n)|Middle|扫描算法|2020-01-06|
+|1191|[findLUSlength][64]|python|__O__(n^2)|__O__(n)|Middle|all()|2020-01-06|
 
 
 ## List
@@ -141,3 +142,4 @@
 [61]: ./Permutation/multiSort.py
 [62]: ./Permutation/canAttendMeetings.py
 [63]: ./Permutation/minMeetingRooms.py
+[64]: ./Permutation/findLUSlength.py
