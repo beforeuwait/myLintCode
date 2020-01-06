@@ -72,7 +72,7 @@
 |1191|[findLUSlength][64]|python|__O__(n^2)|__O__(n)|Middle|all()|2020-01-06|
 |1200|[findRelativeRanks][65]|python|__O__(n)|__O__(n)|Easy||2020-01-06|
 |1477|[carFleet][66]|python|__O__(n)|__O__(1)|Middle||2020-01-06|
-|1499|[reorderedPowerOf2][67]|__O__(n)|__O__(n)|Middle||2020-01-06|
+|1499|[reorderedPowerOf2][67]|python|__O__(n)|__O__(n)|Middle||2020-01-06|
 
 
 
