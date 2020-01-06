@@ -67,8 +67,8 @@
 |547|[intersection][59]|python|__O__(n)|__O__(n)|Middle||2020-01-06|
 |548|[intersectionII][60]|python|__O__(n)|__O__(n)|Middle||2020-01-06|
 |846|[multiSort][61]|python|__O__(n)|__O__(1)|Easy||2020-01-06|
-|920|[canAttendMeetings][62]|__O__(n)|__O__(1)|Easy||2020-01-06|
-|919|[minMeetingRooms][63]|__O__(n)|__O__(n)|Middle|扫描算法|2020-01-06|
+|920|[canAttendMeetings][62]|python|__O__(n)|__O__(1)|Easy||2020-01-06|
+|919|[minMeetingRooms][63]|python|__O__(n)|__O__(n)|Middle|扫描算法|2020-01-06|
 
 
 ## List
