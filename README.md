@@ -64,8 +64,9 @@
 |184|[largestNumber][56]|python|__O__(nlgn)|__O__(1)|Middle|冒泡|2020-01-02|
 |387|[smallestDifference][57]|python|__O__(n)|__O__(1)|Middle|好题|2020-01-03|
 |400|[maximumGap][58]|python|__O__(n)|__O__(1)|Middle|好题|2020-01-03|
-|547|[intersection][59]|python|__O__(n)|__O__(n)|Middle||2019-01-06|
-|548|[intersectionII][60]|Python|__O__(n)|__O__(n)|Middle||2019-01-06|
+|547|[intersection][59]|python|__O__(n)|__O__(n)|Middle||2020-01-06|
+|548|[intersectionII][60]|python|__O__(n)|__O__(n)|Middle||2020-01-06|
+|846|[multiSort][61]|python|__O__(n)|__O__(1)|Easy||2020-01-06|
 
 
 ## List
@@ -135,3 +136,4 @@
 [58]: ./Permutation/maximumGap.py
 [59]: ./Permutation/intersection.py
 [60]: ./Permutation/intersectionII.py
+[61]: ./Permutation/multiSort.py
