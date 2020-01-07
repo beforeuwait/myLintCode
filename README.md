@@ -1,5 +1,12 @@
 # [LintCode][1] ![License][2]![Language][3]
 
+## BackTracking
+
+| # | Title | Solution | Time | Space | Difficulty | Tag | Date |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|123|[exist][68]|python|__O__(n^2)|__O__(n)|Middle|dfs应用|2020-01-07|
+
+
 ## Linked List
 
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
