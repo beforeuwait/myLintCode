@@ -5,7 +5,8 @@
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |123|[exist][68]|python|__O__(n^2)|__O__(n)|Middle|dfs应用|2020-01-07|
-|135|[combinationSum][69]|__O__(nlgn)|__O__(n)|Middle|dfs应用|2020-01-07|
+|135|[combinationSum][69]|python|__O__(nlgn)|__O__(n)|Middle|dfs应用|2020-01-07|
+|136|[partition][70]|python|__O__(nlgn)|__O__(n)|Middle||2020-01-07|
 
 
 ## Linked List
@@ -160,3 +161,4 @@
 [67]: ./Permutation/reorderedPowerOf2.py
 [68]: ./BackTracking/exist.py
 [69]: ./BackTracking/combinationSum.py
+[70]: ./BackTracking/partition.py
