@@ -8,6 +8,7 @@
 |135|[combinationSum][69]|python|__O__(nlgn)|__O__(n)|Middle|dfs应用|2020-01-07|
 |136|[partition][70]|python|__O__(nlgn)|__O__(n)|Middle||2020-01-07|
 |152|[combine][71]|python|__O__(nlgn)|__O__(n)|Middle||2020-01-07|
+|153|[combinationSum2][72]|python|__O__(nlgn)|__O__(n)|Middle||2020-01-07|
 
 
 ## Linked List
@@ -164,3 +165,4 @@
 [69]: ./BackTracking/combinationSum.py
 [70]: ./BackTracking/partition.py
 [71]: ./BackTracking/combine.py
+[72]: ./BackTracking/combinationSum2.py
