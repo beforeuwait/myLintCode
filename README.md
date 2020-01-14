@@ -13,6 +13,8 @@
 |425|[letterCombinations][74]|python|__O__(3^n)|__O__(3^n)|Middle||2020-01-08|
 |426|[restoreIpAddresses][75]|python|__O__(nlgn)|__O__(nlgn)|Middle||2020-01-14|
 |427|[generateParenthesis][76]|python|__O__(nlgn)|__O__(nlgn)|Middle||2020-01-14|
+|570|[findMissing2][77]|python|__O__(nlgn)|__O__(nlgn)|Middle||2020-01-14|
+
 
 ## Linked List
 
@@ -173,3 +175,4 @@
 [74]: ./BackTracking/letterCombinations.py
 [75]: ./BackTracking/restoreIpAddresses.py
 [76]: ./BackTracking/generateParenthesis.py
+[77]: ./BackTracking/findMissing2.py
