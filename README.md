@@ -1,10 +1,10 @@
 # [LintCode][1] ![License][2]![Language][3]
 
-## recursion
+## binary tree
 
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|7|[serialize&deserialize][79]|python|__O__(n)|__O__(n)|dfs|2020-03-16|
+|7|[serialize&deserialize][79]|python|__O__(n)|__O__(n)|Middle|dfs|2020-03-16|
 
 ## BackTracking
 
