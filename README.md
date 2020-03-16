@@ -1,5 +1,11 @@
 # [LintCode][1] ![License][2]![Language][3]
 
+## recursion
+
+| # | Title | Solution | Time | Space | Difficulty | Tag | Date |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|7|[serialize&deserialize][79]|python|__O__(n)|__O__(n)|dfs|2020-03-16|
+
 ## BackTracking
 
 | # | Title | Solution | Time | Space | Difficulty | Tag | Date |
@@ -178,3 +184,4 @@
 [76]: ./BackTracking/generateParenthesis.py
 [77]: ./BackTracking/findMissing2.py
 [78]: ./BackTracking/splitString.py
+[79]: ./recursion/serialize&deserialize.py
