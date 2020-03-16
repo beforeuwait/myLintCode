@@ -6,6 +6,7 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |7|[serialize&deserialize][79]|python|__O__(n)|__O__(n)|Middle|dfs|2020-03-16|
 |66|[preorderTraversal][80]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-16|
+|67|[inorderTraversal][81]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-16|
 
 ## BackTracking
 
@@ -187,3 +188,4 @@
 [78]: ./BackTracking/splitString.py
 [79]: ./BinaryTree/serialize&deserialize.py
 [80]: ./BinaryTree/preorderTraversal.py
+[81]: ./BinaryTree/inorderTraversal.py
