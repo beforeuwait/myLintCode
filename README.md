@@ -10,6 +10,7 @@
 |68|[postorderTraversal][82]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-17|
 |69|[levelOrder][83]|python|__O__(n)|__O__(n)|Easy|2020-03-23|
 |70|[levelOrderBottom][84]|__O__(n)|__O__(n)|Middle|2020-03-23|
+[71]|[zigzagLevelOrder][85]|__O__(n)|__O__(n)|Middle|2020-03-23|
 
 ## BackTracking
 
@@ -195,3 +196,4 @@
 [82]: ./BinaryTree/postorderTraversal.py
 [83]: ./BinaryTree/levelOrder.py
 [84]: ./BinaryTree/levelOrderBottom.py
+[85]: ./BinaryTree/zigzagLevelOrder.py
