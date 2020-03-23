@@ -8,6 +8,7 @@
 |66|[preorderTraversal][80]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-16|
 |67|[inorderTraversal][81]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-16|
 |68|[postorderTraversal][82]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-17|
+|69|[levelOrder][83]|python|__O__(n)|__O__(n)|Easy|2020-03-23|
 
 ## BackTracking
 
@@ -191,3 +192,4 @@
 [80]: ./BinaryTree/preorderTraversal.py
 [81]: ./BinaryTree/inorderTraversal.py
 [82]: ./BinaryTree/postorderTraversal.py
+[83]: ./BinaryTree/levelOrder.py
