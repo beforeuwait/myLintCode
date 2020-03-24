@@ -8,9 +8,9 @@
 |66|[preorderTraversal][80]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-16|
 |67|[inorderTraversal][81]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-16|
 |68|[postorderTraversal][82]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-17|
-|69|[levelOrder][83]|python|__O__(n)|__O__(n)|Easy|2020-03-23|
-|70|[levelOrderBottom][84]|__O__(n)|__O__(n)|Middle|2020-03-23|
-[71]|[zigzagLevelOrder][85]|__O__(n)|__O__(n)|Middle|2020-03-23|
+|69|[levelOrder][83]|python|__O__(n)|__O__(n)|Easy|queue|2020-03-23|
+|70|[levelOrderBottom][84]|python|__O__(n)|__O__(n)|Middle|queue|2020-03-23|
+|71|[zigzagLevelOrder][85]|python|__O__(n)|__O__(n)|Middle|queue|2020-03-23|
 
 ## BackTracking
 
