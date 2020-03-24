@@ -11,6 +11,7 @@
 |69|[levelOrder][83]|python|__O__(n)|__O__(n)|Easy|queue|2020-03-23|
 |70|[levelOrderBottom][84]|python|__O__(n)|__O__(n)|Middle|queue|2020-03-23|
 |71|[zigzagLevelOrder][85]|python|__O__(n)|__O__(n)|Middle|queue|2020-03-23|
+|72|[buildTree][86]|python|__O__(n)|__O__(n)|Middle|dfs|2020-03-23|
 
 ## BackTracking
 
@@ -197,3 +198,4 @@
 [83]: ./BinaryTree/levelOrder.py
 [84]: ./BinaryTree/levelOrderBottom.py
 [85]: ./BinaryTree/zigzagLevelOrder.py
+[86]: ./BinaryTree/buildTree.py
