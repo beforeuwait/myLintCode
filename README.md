@@ -16,6 +16,7 @@
 |11|[searchRange][88]|python|__O__(lgn)|__O__(n)|Middle|dfs|2020-03-23|
 |88|[lowestCommonAncestor][89]|__O__(n)|__O__(n)|Middle|dfs|2020-03-24|
 |95|[isValidBST][90]|__O__(n)|__O__(n)|Middle|超级棒|2020-03-24|
+|97|[maxDepth][91]|__O__(n)|__O__(n)|Easy|分治法|2020-03-24|
 
 
 ## BackTracking
@@ -208,3 +209,4 @@
 [88]: ./BinaryTree/searchRange.py
 [89]: ./BinaryTree/lowestCommonAncestor.py
 [90]: ./BinaryTree/isValidBST.py
+[91]: ./BinaryTree/maxDepth.py
