@@ -22,6 +22,7 @@
 |177|[sortedArrayToBST][94]|__O__(n)|__O__(n)|Easy|dfs|2020-03-25|
 |242|[binaryTreeToLists][95]|__O__(n)|__O__(n)|Easy|bfs和链表|2020-03-25|
 |375|[cloneTree][96]|__O__(n)|__O__(n)|Easy|dfs|2020-03-25|
+|245|[isSubtree][97]|__O__(n)|__O__(n)|Middle|dfs|2020-03-25|
 
 
 ## BackTracking
@@ -220,3 +221,4 @@
 [94]: ./BinaryTree/sortedArrayToBST.py
 [95]: ./BinaryTree/binaryTreeToLists.py
 [96]: ./BinaryTree/cloneTree.py
+[97]: ./BinaryTree/isSubtree.py
