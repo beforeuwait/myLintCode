@@ -34,8 +34,4 @@ class Solution:
                 stack.append(node.right)
             if node.left:
                 stack.append(node.left)
-            node.left = None
-            if stack:
-                node.right = stack[-1]
-            else:
-                node.right = None
+            node.left, node.right = None, stack[-1] if stack else None
