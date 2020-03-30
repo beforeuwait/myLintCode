@@ -23,8 +23,8 @@
 |242|[binaryTreeToLists][95]|python|__O__(n)|__O__(n)|Easy|bfs和链表|2020-03-25|
 |375|[cloneTree][96]|python|__O__(n)|__O__(n)|Easy|dfs|2020-03-25|
 |245|[isSubtree][97]|python|__O__(n)|__O__(n)|Middle|dfs|2020-03-25|
-|448|[inorderSuccessor][98]|python|__O__(h)|__O__(h)|bfs|2020-03-30|
-|453|[flatten][99]|python|__O__(n)|__O__(n)|stack|2020-03-30|
+|448|[inorderSuccessor][98]|python|__O__(h)|__O__(h)|Middle|bfs|2020-03-30|
+|453|[flatten][99]|python|__O__(n)|__O__(n)|Easy|stack|2020-03-30|
 
 
 ## BackTracking
