@@ -27,6 +27,7 @@
 |453|[flatten][99]|python|__O__(n)|__O__(n)|Easy|stack|2020-03-30|
 |469|[isIdentical][100]|python|__O__(n)|__O__(n)|Easy||2020-04-01|
 |1783|[postorderTraversalII][101]|python|__O__(n)|__O__(n)|Easy||2020-04-01|
+|480|[binaryTreePaths][102]|python|__O__(n)|__O__(n)|Easy|dfs|2020-04-01|
 
 
 ## BackTracking
@@ -230,3 +231,4 @@
 [99]: ./BinaryTree/flatten.py
 [100]: ./BinaryTree/isIdentical.py
 [101]: ./BinaryTree/postorderTraversal.py
+[102]: ./BinaryTree/binaryTreePaths.py
