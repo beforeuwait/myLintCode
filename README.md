@@ -25,6 +25,7 @@
 |245|[isSubtree][97]|python|__O__(n)|__O__(n)|Middle|dfs|2020-03-25|
 |448|[inorderSuccessor][98]|python|__O__(h)|__O__(h)|Middle|bfs|2020-03-30|
 |453|[flatten][99]|python|__O__(n)|__O__(n)|Easy|stack|2020-03-30|
+|469|[isIdentical][100]|python|__O__(n)|__O__(n)|Easy||2020-04-01|
 
 
 ## BackTracking
@@ -226,3 +227,4 @@
 [97]: ./BinaryTree/isSubtree.py
 [98]: ./BinaryTree/inorderSuccessor.py
 [99]: ./BinaryTree/flatten.py
+[100]: ./BinaryTree/isIdentical.py
