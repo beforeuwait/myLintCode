@@ -28,6 +28,7 @@
 |469|[isIdentical][100]|python|__O__(n)|__O__(n)|Easy||2020-04-01|
 |1783|[postorderTraversalII][101]|python|__O__(n)|__O__(n)|Easy||2020-04-01|
 |480|[binaryTreePaths][102]|python|__O__(n)|__O__(n)|Easy|dfs|2020-04-01|
+|595|[longestConsecutive][103]|python|__O__(n)|__O__(n)|Easy|dfs|2020-04-02|
 
 
 ## BackTracking
@@ -232,3 +233,4 @@
 [100]: ./BinaryTree/isIdentical.py
 [101]: ./BinaryTree/postorderTraversal.py
 [102]: ./BinaryTree/binaryTreePaths.py
+[103]: ./BinaryTree/longestConsecutive.py
